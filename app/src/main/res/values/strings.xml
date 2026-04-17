@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="no_tasks">No tasks yet. Tap + to add.</string>
+    <string name="task_title">Task title</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="clear_completed">Clear completed</string>
+    <string name="add_task">Add task</string>
+    <string name="category_work">Work</string>
+    <string name="category_personal">Personal</string>
+    <string name="task_added">Task added</string>
+    <string name="completed_cleared">Completed tasks cleared</string>
+</resources>

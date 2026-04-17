@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ToDoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Night colors are provided by Material3 DayNight. Custom values can override if required. -->
+    </style>
+</resources>
